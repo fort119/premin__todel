@@ -134,6 +134,11 @@ a {
   color: #ffffff;
 }
 
+.carol-pic {
+  max-height: 400px;
+  max-width: 400px;
+}
+
 @media (max-width: 1400px) {
   .main__right-inner {
     text-align: center;
